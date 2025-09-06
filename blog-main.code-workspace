@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "blog-main",
+			"path": "."
+		},
+		{
+			"name": "neo-brutalist-ui-library",
+			"path": "../../neo-brutalist-ui-library"
+		}
+	],
+	"settings": {
+	}
+}
